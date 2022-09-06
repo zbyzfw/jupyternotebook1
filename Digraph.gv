@@ -1,0 +1,6 @@
+// 测试
+digraph {
+	xx [fontname=SimSun]
+	"鬼谷子" [fontname=SimSun]
+	xx -> "鬼谷子" [label="就是" fontname=SimSun]
+}
